@@ -1,3 +1,9 @@
+Adde my First VueJs Project with JSONPlaceholder API
+
+1. Vue-Router
+2. Vue-Resource
+3. Core Vue Modules and Directives
+
 # vueapp
 
 > A Vue.js project
