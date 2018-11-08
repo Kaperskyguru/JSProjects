@@ -18,12 +18,13 @@ php artisan db:seed
 
 # If you get an error about an encryption key
 php artisan key:generate
-```
+
 # Install JS Dependencies
 npm install
 
 # Watch Files
 npm run watch
+```
 
 ## Endpoints
 
